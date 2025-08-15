@@ -59,8 +59,11 @@ Install Pygame:
 ```bash
 pip install pygame
 
-To run the game:
+# Clone the repository
+git clone https://github.com/your-username/two-player-snake.git
+
+# Navigate into the folder
+cd two-player-snake
+
+# Run the game
 python two_player_snake.py
-
-
-If you want, I can also add **a nice ASCII art snake** at the top of the README so it feels more fun and retro-gaming themed. That would make your repo stand out.
